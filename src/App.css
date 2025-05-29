@@ -69,28 +69,3 @@ button:hover {
 #restartBtn {
   margin-top: 50px;
 }
-
-/* .container {
-  text-align: center;
-  font-family: sans-serif;
-}
-
-.board {
-  display: grid;
-  grid-template-columns: repeat(3, 100px);
-  gap: 5px;
-  justify-content: center;
-  margin: 20px auto;
-}
-
-.cell {
-  width: 100px;
-  height: 100px;
-  background: #eee;
-  font-size: 2rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  user-select: none;
-  border: 1px solid #ccc;
-} */
