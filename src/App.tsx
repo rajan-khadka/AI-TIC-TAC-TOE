@@ -77,7 +77,7 @@ export default function App() {
         )}
       </div>
       <button id="restartBtn" onClick={restart}>
-        Restart
+        Restart Game
       </button>
     </div>
   );
